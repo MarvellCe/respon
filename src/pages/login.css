@@ -1,0 +1,25 @@
+.imgnama{
+    margin-bottom: -80px;
+    width: 35%;
+}
+
+@media not all and (min-width: 640px) {
+    .divlogin{
+        background-image: url('../gambar/login.png');
+        background-position: center;
+        background-size: 110%;
+    }
+
+    .imgnama{
+        margin-bottom: -45px;
+        
+    }
+}
+
+@media not all and (min-width: 640px) {
+    .divpilih{
+        background-image: url("../gambar/backgroundchar.png");
+        background-position: center;
+        background-size: 115%;
+    }
+}
